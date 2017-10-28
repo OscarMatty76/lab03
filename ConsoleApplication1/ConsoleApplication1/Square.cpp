@@ -1,6 +1,7 @@
-
+#include "stdafx.h"
 #include "Square.h"
 #include<iostream>
+
 
 using namespace std;
 
